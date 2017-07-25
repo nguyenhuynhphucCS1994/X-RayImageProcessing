@@ -1,0 +1,24 @@
+P:\C# Demo\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image_Processing_X_Ray.csprojResolveAssemblyReference.cache
+P:\C# Demo\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image_Processing_X_Ray.Form1.resources
+P:\C# Demo\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image_Processing_X_Ray.Properties.Resources.resources
+P:\C# Demo\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image_Processing_X_Ray.csproj.GenerateResource.Cache
+P:\C# Demo\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image Processing X-Ray.exe
+P:\C# Demo\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image Processing X-Ray.pdb
+P:\C# Demo\Image Processing X-Ray\Image Processing X-Ray\bin\Debug\Image Processing X-Ray.exe
+P:\C# Demo\Image Processing X-Ray\Image Processing X-Ray\bin\Debug\Image Processing X-Ray.pdb
+P:\C# Project\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image Processing X-Ray.exe
+P:\C# Project\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image Processing X-Ray.pdb
+P:\C# Project\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image_Processing_X_Ray.csprojResolveAssemblyReference.cache
+P:\C# Project\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image_Processing_X_Ray.Form1.resources
+P:\C# Project\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image_Processing_X_Ray.Properties.Resources.resources
+P:\C# Project\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image_Processing_X_Ray.csproj.GenerateResource.Cache
+P:\C# Project\Image Processing X-Ray\Image Processing X-Ray\bin\Debug\Image Processing X-Ray.exe
+P:\C# Project\Image Processing X-Ray\Image Processing X-Ray\bin\Debug\Image Processing X-Ray.pdb
+D:\C# Projects\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image Processing X-Ray.exe
+D:\C# Projects\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image Processing X-Ray.pdb
+D:\C# Projects\Image Processing X-Ray\Image Processing X-Ray\bin\Debug\Image Processing X-Ray.exe
+D:\C# Projects\Image Processing X-Ray\Image Processing X-Ray\bin\Debug\Image Processing X-Ray.pdb
+D:\C# Projects\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image_Processing_X_Ray.csprojResolveAssemblyReference.cache
+D:\C# Projects\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image_Processing_X_Ray.Form1.resources
+D:\C# Projects\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image_Processing_X_Ray.Properties.Resources.resources
+D:\C# Projects\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image_Processing_X_Ray.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+P:\C# Demo\Image Processing X-Ray\Image Processing X-Ray\bin\Debug\Image Processing X-Ray.exe
+P:\C# Demo\Image Processing X-Ray\Image Processing X-Ray\bin\Debug\Image Processing X-Ray.pdb
+P:\C# Demo\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image Processing X-Ray.csprojResolveAssemblyReference.cache
+P:\C# Demo\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image_Processing_X_Ray.Form1.resources
+P:\C# Demo\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image_Processing_X_Ray.Properties.Resources.resources
+P:\C# Demo\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image Processing X-Ray.csproj.GenerateResource.Cache
+P:\C# Demo\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image Processing X-Ray.exe
+P:\C# Demo\Image Processing X-Ray\Image Processing X-Ray\obj\Debug\Image Processing X-Ray.pdb
